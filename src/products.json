@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "image": "https://www.alniaciklar.com/i/l/001/0016737_falim-cilekli-5li.png"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 6,
+    "image": "https://www.coca-cola.com.tr/content/dam/one/tr/tr/product-images/coca-cola-orijinal-tat_product_image_v3.png"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 400,
+    "image": "https://www.jump.com.tr/jump-26505-beyaz-acik-gri-erkek-spor-ayakkabi-sneaker-jump-126847-39-K.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 4000,
+    "image": "https://n11scdn.akamaized.net/a1/450/kitap-muzik-film-oyun/kumandasiz-araba/metal-haci-murat-131-kirmizi-cek-birak-oyuncak-araba__1194608283325311.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Kebap",
+    "price": 15.5,
+    "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2016/05/adana-kebap-one-cikan.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ayran",
+    "price": 7.5,
+    "image": "https://d2uiaykj5yb3c0.cloudfront.net/ekobaymar/img/p/2bda88b5-2029-46c9-b169-3f5aaa93c077.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mont",
+    "price": 270,
+    "image": "https://cdn.cimri.io/image/1200x1200/erkekmontfiyatlar_291843096.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Traktör",
+    "price": 3500,
+    "image": "https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/8693461012112_1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Bilgisayar",
+    "price": 250,
+    "image": "https://mcdn01.gittigidiyor.net/78210/782105787_0.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Telefon",
+    "price": 215,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113155-2_large.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Tava",
+    "price": 87,
+    "image": "https://statics.boyner.com.tr/mnresize/500/-/productimages/5002695666_X_01_900_1254.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Kitap",
+    "price": 215,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmKW9f0bcQLPSDC_Hze_gNPeXdB0ksjfjMg&usqp=CAU"
+  }
+]
